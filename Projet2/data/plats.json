@@ -1,0 +1,41 @@
+[
+
+   {
+      
+       "id": 1,
+       "nom": "Amiwo",
+       "description": "L’amiwo est un plat traditionnel béninois à base de maïs, de haricots et d’huile de palme. Il est souvent accompagné de sauces épicées et de légumes.",
+         "prix": 1500,
+         "disponible": true
+
+   },
+    {
+        "id": 2,
+        "nom": "Ablo",
+        "description": "Gâteau de maïs cuit à la vapeur, accompagné de sauce tomate",
+        "prix": 1000,
+        "disponible": true
+    },
+    {
+        "id": 3,
+        "nom": "Gari foto",
+        "description": "Semoule de manioc sautée aux légumes et oeufs",
+        "prix": 1200,
+        "disponible": true
+    },
+    {
+        "id": 4,
+        "nom": "Akassa",
+        "description": "Pâte de maïs fermentée servie avec sauce gombo",
+        "prix": 800,
+        "disponible": false
+    },
+    {
+        "id": 5,
+        "nom": "Kpètè",
+        "description": "Haricots noirs mijotés avec huile de palme et piment, servis avec du riz",
+        "prix": 1300,
+        "disponible": false
+}
+
+]
